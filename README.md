@@ -1,6 +1,7 @@
 # whatsapp_ui_responsive
 
-A new Flutter project.
+This is a clone of whatsapp ui and it's responsive.
+It's work on any type of screen size(Mobile/ Web).
 
 ## Getting Started
 
